@@ -31,3 +31,7 @@ dist/
 
 # typescript
 .tsbuildinfo
+
+# IDE and Jetbrains settings
+.idea/*
+*.iml
